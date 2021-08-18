@@ -25,7 +25,7 @@
 </p>
 
 <p align="left">
-  <a href="https://portfolio-const-ntino.vercel.app/" alt="Portfolio">
+  <a href="https://joaopedro-portfolio.vercel.app/" alt="Portfolio">
   <img src="https://img.shields.io/badge/portfolio-000?style=flat-square&logo=Google-Sheets&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/jpconstantino/" alt="Linkedin">
